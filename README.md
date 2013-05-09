@@ -14,4 +14,6 @@ that case.
 
 Then I created another function which traverses through the arraylist and calls the previous function with passing each 
 strings into that function.
+
+
 ========
